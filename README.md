@@ -18,7 +18,7 @@ The food aggregator company has stored the data of the different orders made by 
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> (21H2)
+- <b>Jupyter Notebook</b>
 
 <h2>Program walk-through:</h2>
 
